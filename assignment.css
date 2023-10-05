@@ -1,0 +1,694 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.frame {
+    width: 1440px;
+    height: 4485px;
+    top: -596px;
+    padding-left: 85px;
+    background-color: #222222;
+}
+
+.private {
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    width: 139px;
+    height: 28px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.workspace1 {
+    width: 40px;
+    height: 40px;
+
+}
+
+.facilitycard {
+    width: 193px;
+    margin-right: 30px;
+    height: 193px;
+    left: 435px;
+    margin-top: 150px;
+    border-radius: 8px;
+    border: 1px;
+    border: 1px solid #E8E8E8;
+    background-color: #ffffff;
+}
+
+.queries {
+    width: 411px;
+    height: 124px;
+    top: 2902px;
+    left: 138px;
+    font-family: Open Sans;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 62px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+}
+
+.querypara1 {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 628px;
+    height: 72px;
+    top: 2995px;
+    margin-left: 20px;
+    left: 661px;
+    color: #1D263AE5;
+}
+
+.visithead {
+    font-family: Open Sans;
+    font-size: 33px;
+    font-weight: 600;
+    margin-left: 30px;
+    margin-top: 20px;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 128px;
+    height: 40px;
+    top: 471px;
+    left: 109px;
+}
+
+.email {
+    width: 436px;
+    height: 56px;
+    position: relative;
+    padding-left: 20px;
+    bottom: 60px;
+    left: 600px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: #FAFAFA;
+    background-color: #FAFAFA;
+}
+
+.visitpara {
+    font-family: Open Sans;
+    font-size: 16px;
+    margin-left: 30px;
+    color: #555555;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 510px;
+    height: 56px;
+    top: 535px;
+    left: 109px;
+
+}
+
+.visit {
+    padding-top: 10px;
+    width: 1194px;
+    height: 199px;
+    bottom: 240px;
+    left: 43px;
+    position: relative;
+    border-radius: 16px;
+    background-color: #ffffff;
+}
+
+.point {
+    position: relative;
+    width: 27px;
+    height: 27px;
+    bottom: 58px;
+    right: 393px;
+}
+
+.facebook {
+    width: 20px;
+    height: 20px;
+    border-radius: 8px;
+    position: relative;
+    top: 100px;
+    left: 80px;
+    margin-right: 20px;
+}
+
+.home {
+    font-family: Open Sans;
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 69px;
+    height: 32px;
+    position: relative;
+    top: 80px;
+    left: 280px;
+}
+
+.home2 {
+    font-family: Open Sans;
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 150px;
+    height: 40px;
+    position: relative;
+    top: 80px;
+    left: 660px;
+}
+
+.comp2 {
+    font-family: Open Sans;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 300px;
+    height: 30px;
+    top: 90px;
+    left: 660px;
+    position: relative;
+    color: #ffffff;
+}
+
+.comp {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 61px;
+    height: 30px;
+    top: 90px;
+    left: 280px;
+    position: relative;
+    color: #ffffff;
+}
+
+.home1 {
+    font-family: Open Sans;
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 69px;
+    height: 32px;
+    position: relative;
+    top: 80px;
+    left: 480px;
+}
+
+.comp1 {
+    font-family: Open Sans;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 110px;
+    height: 30px;
+    top: 90px;
+    left: 480px;
+    position: relative;
+    color: #ffffff;
+}
+
+.component1 {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 264px;
+    height: 48px;
+    top: 80px;
+    left: 80px;
+    color: #ffffff;
+}
+
+.map {
+    width: 1280px;
+    height: 677px;
+    border-radius: 16px;
+    margin-top: 30px;
+}
+
+.innerdiv {
+    width: 1062px;
+    height: 208px;
+    top: 4346px;
+    left: 189px;
+
+}
+
+.footer {
+    background: #FF7665CC;
+    width: 1440px;
+    height: 343px;
+    position: relative;
+    right: 84px;
+}
+
+.chevron1 {
+    width: 36px;
+    height: 36px;
+    top: 2962px;
+    left: 1289px;
+    color: #1D263A;
+    margin-left: 390px;
+    margin-top: 25px;
+}
+
+.chevron {
+    width: 36px;
+    height: 36px;
+    top: 2962px;
+    left: 1289px;
+    color: #1D263A;
+    margin-left: 320px;
+    margin-top: 25px;
+}
+
+.querypara2 {
+    font-family: Open Sans;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 209px;
+    height: 31px;
+    top: 3161px;
+    left: 661px;
+    color: #0C1623;
+}
+
+.card6 {
+    border: 1px solid #000000;
+    width: 682px;
+    height: 80px;
+    top: 3136px;
+    left: 631px;
+    border-radius: 5px;
+    border-width: 1px;
+    background-color: #ffffff;
+    color: #1D263AE5;
+}
+
+.query1 {
+    font-family: Open Sans;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 31px;
+    letter-spacing: 0em;
+    margin-left: 20px;
+    margin-top: 30px;
+    text-align: left;
+    width: 281px;
+    height: 31px;
+    top: 2948px;
+    left: 661px;
+    color: #0C1623;
+}
+
+.card5 {
+    border: 1px solid #585858;
+    box-shadow: 6px 10px 50px 0px #A8AFB740;
+    width: 682px;
+    height: 190px;
+    top: 2921px;
+    left: 631px;
+    border-radius: 5px;
+    border-width: 1px;
+    background-color: #ffffff;
+}
+
+.querypara {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 10px;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 410px;
+    height: 48px;
+    top: 3043px;
+    left: 144px;
+    color: #ffffff;
+}
+
+.span {
+    font-family: "Playfair Display";
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 62px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FF7665;
+}
+
+.explorebtn {
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    width: 133px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 35px;
+    border-width: 0px;
+    background-color: #FF7665;
+    color: #ffffff;
+}
+
+.emailbtn {
+    font-family: "Open Sans";
+    position: relative;
+    font-size: 15px;
+    font-weight: 400;
+    left: 500px;
+    line-height: 28px;
+    letter-spacing: 0em;
+    width: 130px;
+    bottom: 60px;
+    height: 55px;
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 35px;
+    border-width: 0px;
+    background-color: #FF7665;
+    color: #ffffff;
+}
+
+.historypara {
+    font-family: Open Sans;
+    font-size: 16px;
+    color: #555555;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 497px;
+    height: 84px;
+    top: 146px;
+    left: 698px;
+}
+
+.historyHead {
+    font-family: "Open Sans";
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 50px;
+    color: #000000;
+    letter-spacing: 0em;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-align: left;
+    width: 394px;
+    height: 50px;
+    top: 76px;
+    left: 698px;
+}
+
+.card4 {
+    width: 1280px;
+    margin-top: 80px;
+    height: 520px;
+    border-radius: 16px;
+    background-color: #F4FBF8;
+}
+
+.history {
+    width: 667px;
+    height: 520px;
+    top: 2229px;
+    left: 80px;
+    border-radius: 16px;
+
+}
+
+.facilitycard1 {
+    width: 193px;
+    margin-right: 30px;
+    height: 193px;
+    left: 435px;
+    margin-top: 30px;
+    border-radius: 8px;
+    border: 1px;
+    border: 1px solid #E8E8E8;
+    background-color: #ffffff;
+}
+
+.loginbtn {
+    width: 133px;
+    height: 40px;
+    margin-left: 1150px;
+    margin-bottom: 35px;
+    margin-top: 35px;
+    border-radius: 35px;
+    background-color: #FF7665;
+    color: #ffffff;
+}
+
+.card {
+    width: 1280px;
+    height: 656px;
+    border-radius: 50px 50px 0px 0px;
+    background-color: #ffffff;
+}
+
+.paradiv {
+    width: 515px;
+    height: 64px;
+    padding-top: 100px;
+    padding-left: 60px;
+}
+
+.para {
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #555555;
+}
+
+.view1btn {
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    width: 133px;
+    height: 40px;
+    margin-top: 94px;
+    margin-left: 1150px;
+    border-radius: 35px;
+    background-color: #FF7665;
+    color: #ffffff;
+}
+
+.room1 {
+    width: 411px;
+    height: 480px;
+    margin-top: 20px;
+    border-radius: 16px;
+    background-color: #ffffff;
+}
+
+.contactbtn {
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    width: 133px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 35px;
+    background-color: #FF7665;
+    color: #ffffff;
+}
+
+.hotelpng {
+    width: 674px;
+    height: 657px;
+    border-radius: 16px;
+    margin-left: 90px;
+}
+
+.imgroom1 {
+    width: 411px;
+    height: 320px;
+    top: 176px;
+    border-radius: 16px 16px 0px 0px;
+
+}
+
+.ExecutiveRoom {
+    width: 185px;
+    height: 30px;
+    margin-top: 60px;
+    margin-left: 16px;
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.facilitypara {
+    width: 386px;
+    height: 56px;
+    top: 120px;
+    margin-top: 80px;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+}
+
+.facility {
+    margin-top: 150px;
+    width: 411px;
+    height: 100px;
+    font-family: "Open Sans";
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+}
+
+.stars {
+    width: 16px;
+    height: 16px;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.star1 {
+    width: 16px;
+    height: 16px;
+    margin-top: 20px;
+    margin-left: 2px;
+}
+
+.price1 {
+    width: 111px;
+    height: 18px;
+    margin-top: 20px;
+    margin-left: 16px;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.roomshead {
+    font-family: "Open Sans";
+    font-size: 35px;
+    margin-top: 100px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+}
+
+.icon2 {
+    width: 24px;
+    height: 24px;
+    margin-top: 541px;
+    left: 170px;
+
+}
+
+.rooms {
+    width: 485px;
+    height: 60px;
+
+}
+
+.card2 {
+    box-shadow: 0px 22px 38px 0px #00221314;
+    width: 1000px;
+    height: 100px;
+    top: 515px;
+    left: 140px;
+    border-radius: 280px;
+    background-color: #ffffff;
+}
+
+.watchpara {
+    font-family: "Open Sans";
+    color: #222222;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 105px;
+}
+
+.icon1 {
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 68px;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 64px;
+    font-weight: bold;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+.headdiv {
+    width: 499px;
+    height: 240px;
+    padding-top: 71px;
+    padding-left: 60px;
+
+}
